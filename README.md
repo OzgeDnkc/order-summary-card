@@ -28,4 +28,3 @@ Using basic HTML and CSS.
 ## Author
 
 - Frontend Mentor - [@OzgeDnkc](https://www.frontendmentor.io/profile/OzgeDnkc)
-
