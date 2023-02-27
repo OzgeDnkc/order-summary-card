@@ -12,7 +12,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: (https://github.com/OzgeDnkc/order-summary-card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://ozgednkc.github.io/order-summary-card/)
 
 ## My process
 
